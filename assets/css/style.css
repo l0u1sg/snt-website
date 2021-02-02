@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    background-color: red;
+
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: green;
+}
+table {
+    border-collapse: collapse;
+
+}
+
+th, td {
+    border: 1px solid gray;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    color: white;
+    background-color: mediumseagreen;
+}
