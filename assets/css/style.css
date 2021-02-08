@@ -8,3 +8,14 @@ body {
 .description {
     text-align: center;
 }
+table {
+    border-collapse: collapse;
+
+}
+th, td{
+    padding: 10px;
+}
+img{
+    width: 30%;
+    height: auto;
+}
