@@ -4,7 +4,7 @@ function alertForm() {
 
 function goPlay() {
     let points = 0
-    window.alert("Bon, c'est leur de voir si vous avez bien retenu les informations dans la page index.html")
+    window.alert("Bon, c'est l'heure de voir si vous avez bien retenu les informations dans la page index.html")
     window.confirm("Etes vous pret ?")
     let rp1 = window.prompt("Quels sont mes languages de programmation favoris. " + "1- JavaScript, Java, HTML5" + "  2- JavaScript, HTML, NodeJS" + "  3- HTML, CSS, Python", "Répondre par 1, 2 ou 3")
     if (rp1 == 2) {
